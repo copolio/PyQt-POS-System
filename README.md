@@ -1,6 +1,8 @@
 # SimplePyQtPOSinKorean
 ---
 
+- PyQt를 이용해 제작한 간단한 한국어 POS 프로그램
+- 치킨 매장을 가정하고 메뉴 DB를 설정해두었다.
 - This is a simple POS system written in Python with PyQt-based user interface and SQLite database, with initial data and UI in Korean language. 
 
 ## 목차
@@ -21,22 +23,34 @@
 
 ![소프트웨어공학 2조 최종 발표_7](https://user-images.githubusercontent.com/55977034/96537258-c440a300-12d0-11eb-8455-5c5a08c69a31.jpg)
 
-- 로그인
+### - 로그인
+---
+
 ![login](https://user-images.githubusercontent.com/55977034/96537398-226d8600-12d1-11eb-8ec2-b8bb7748ed20.png)
 
-- 기본UI
+### - 기본UI
+---
+
 ![basic_ui](https://user-images.githubusercontent.com/55977034/96537447-40d38180-12d1-11eb-9af3-e584d1fb965c.png)
 
-- 메뉴선택
+### - 메뉴선택
+---
+
 ![menu_choose](https://user-images.githubusercontent.com/55977034/96537495-5d6fb980-12d1-11eb-9381-79aba1157283.png)
 
-- 결제수단
+### - 결제수단
+---
+
 ![purchasemode](https://user-images.githubusercontent.com/55977034/96537537-74aea700-12d1-11eb-9e07-df382558af14.png)
 
-- 결제
+### - 결제
+---
+
 ![purchase](https://user-images.githubusercontent.com/55977034/96537575-9019b200-12d1-11eb-8011-3c9c5b6afcae.png)
 
-- 결제 완료
+### - 결제 완료
+---
+
 ![puchase_complete](https://user-images.githubusercontent.com/55977034/96537613-a7589f80-12d1-11eb-94f3-ffa23d53e3c8.png)
 
 
