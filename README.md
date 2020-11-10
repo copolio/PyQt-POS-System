@@ -1,4 +1,4 @@
-# SimplePyQtPOSinKorean
+# Simple POS(Point-Of-Sale) Program
 ---
 
 - PyQt를 이용해 제작한 간단한 한국어 POS 프로그램
