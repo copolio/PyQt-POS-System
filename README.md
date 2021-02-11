@@ -8,6 +8,7 @@
 ## 개발 환경
 ---
 - Python 3.7
+- PyQt5
 - Pycharm IDE Community Edition
 - Anaconda
 
