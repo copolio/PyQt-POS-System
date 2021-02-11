@@ -3,7 +3,13 @@
 
 - PyQt를 이용해 제작한 간단한 한국어 POS 프로그램
 - 치킨 매장을 가정하고 메뉴 DB를 설정해두었다.
-- This is a simple POS system written in Python with PyQt-based user interface and SQLite database, with initial data and UI in Korean language. 
+- This is a simple POS system written in Python with PyQt-based user interface and SQLite database, with initial data and UI in Korean language.
+
+## 개발 환경
+---
+- Python 3.7
+- Pycharm IDE Community Edition
+- Anaconda
 
 ## 목차
 ---
